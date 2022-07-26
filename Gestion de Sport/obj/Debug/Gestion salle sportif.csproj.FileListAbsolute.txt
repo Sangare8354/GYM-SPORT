@@ -1,0 +1,28 @@
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion salle sportif.csprojResolveAssemblyReference.cache
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion_de_Sport.Login.resources
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion_de_Sport.Properties.Resources.resources
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion salle sportif.csproj.GenerateResource.Cache
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion de Sport.exe
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\bin\Debug\Gestion de Sport.exe.config
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\bin\Debug\Gestion de Sport.exe
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\bin\Debug\Gestion de Sport.pdb
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion de Sport.pdb
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion_de_Sport.Index.resources
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion_de_Sport.FormClient.resources
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion_de_Sport.FormPersonnel.resources
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion_de_Sport.WaitForm.resources
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\bin\Debug\Gestion de Sport.exe.config
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\bin\Debug\Gestion de Sport.exe
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\bin\Debug\Gestion de Sport.pdb
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion salle sportif.csproj.AssemblyReference.cache
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion_de_Sport.FormClient.resources
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion_de_Sport.FormPersonnel.resources
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion_de_Sport.Index.resources
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion_de_Sport.Login.resources
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion_de_Sport.Properties.Resources.resources
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion_de_Sport.WaitForm.resources
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion salle sportif.csproj.GenerateResource.cache
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion salle sportif.csproj.CoreCompileInputs.cache
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion de Sport.exe
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion de Sport.pdb
+C:\Users\salif\Downloads\salle_sport-master\Gestion de Sport\obj\Debug\Gestion_de_Sport.Form1.resources

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Client xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nom>diakite</Nom>
+  <Prenom>ba</Prenom>
+  <Cin>77668420</Cin>
+  <Datenaissance>2003-01-05T16:09:54</Datenaissance>
+  <Sport>Fitness</Sport>
+  <Sexe>Masculin</Sexe>
+  <Dateinscription>2022-07-26T16:09:54.6213897+02:00</Dateinscription>
+  <Numeroinscription>4</Numeroinscription>
+</Client>
